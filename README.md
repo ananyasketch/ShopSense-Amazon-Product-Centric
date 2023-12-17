@@ -8,8 +8,4 @@ In today's digital age, the landscape of consumerism has evolved dramatically. O
 In the ever-expanding realm of online retail, customers are confronted with a formidable obstacle when endeavoring to make well-informed decisions on prominent platforms like Amazon.com. The sheer abundance of user-generated evaluations and an overwhelming deluge of product information contribute to an intricate web of data overload. This, in turn, not only obstructs the efficiency of decision-making processes but also engenders a palpable sense of frustration among users who grapple with the daunting task of manually sifting through the vast sea of reviews and details.
 The contemporary landscape of online retail, particularly on giants like Amazon, has ushered in an era where consumers find themselves immersed in an ocean of choices and information. The inundation of user-generated evaluations compounds the challenge, creating an environment where making well-considered decisions becomes akin to navigating a labyrinth.
 
- #Flow-Diagram
  <img width="579" alt="image" src="https://github.com/ananyasketch/ShopSense-Amazon-Product-Centric/assets/66564897/7205dcea-9c8d-4ba9-ad90-56bcb0eb47e4">
-
-
-# How to Run 
